@@ -15,7 +15,7 @@ o Homepage:[<a href="https://igoroliveiranunes.github.io/Medicenter/"> Medicente
   
   
 # Sobre
-<h3>O Projeto de site de atendimento médico utilizando Html e Css.</h3>
+<h3>O Projeto de site de atendimento médico utilizando Html e Css e um pouco de js.</h3>
 <h3>O Projeto pensado na responsividade.
 <h3>O Exercício feito com proposta do curso 
 <a href="https://b7web.com.br">b7web</a>.</h3>
@@ -24,6 +24,7 @@ o Homepage:[<a href="https://igoroliveiranunes.github.io/Medicenter/"> Medicente
 # Tecnologias
 --<a href="https://www.learn-html.org">Html</a><br>
 --<a href="https://www.css.org">Css</a><br>
+--<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">Javascript</a><br>
   
 <h4> Projeto README </h4>
   
