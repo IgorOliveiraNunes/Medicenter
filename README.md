@@ -1,4 +1,9 @@
 
+<p align="center">
+<a href="#sobre">Sobre</a> o
+<a href="#sobre">Tecnologias</a> o
+<br><br>
+o Homepage:[<a href="https://igoroliveiranunes.github.io/Medicenter/"> Medicenter </a>]
 
 ![img-demostrativa-01](https://user-images.githubusercontent.com/93622964/178160361-0e4ff661-b82b-45a3-80f8-f9deb758ec5e.png)
 
@@ -6,12 +11,7 @@
 
 ![img-demostrativa-03](https://user-images.githubusercontent.com/93622964/178160405-b9d4597d-65ae-4224-bc41-ef9bd766615b.png)
 
-<p align="center">Esse projeto ...</p>
-<p align="center">
-<a href="#sobre">Sobre</a> o
-<a href="#sobre">Tecnologias</a> o
-<br><br>
-o Homepage:[<a href="https://igoroliveiranunes.github.io/Medicenter/"> Medicenter </a>]
+
   
   
 # Sobre
